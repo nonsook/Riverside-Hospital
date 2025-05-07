@@ -13,3 +13,32 @@ RiverSide continually works to enhance health outcomes and promote overall commu
 ## Project Aim
 This project proposes the design of an optimized data model using Draw.io to better structure RiverSide Hospital’s data, enabling faster, more reliable, and scalable analysis.
 
+## Data Dictionary
+• TransactionID
+ • Date
+ • Revenue Amount
+ • Expenses Amount
+ • DoctorID
+ • Doctors_FirstName
+ • Doctors_LastName
+ • Doctor_Gender
+ • Doctor Speciality
+ • Doctor_DateOfBirth
+ • Doctor_Phone
+ • Doctor_Email
+ • PatientID
+ • Patients_FirstName
+ • Patients_LastName
+ • Patients_Gender
+ • Patients_DateOfBirth
+ • Patients_Address
+ • Patients_Phoneno.
+ • ProcedureID
+ • ProcedureName
+ • ProcedureCategory
+ • ProcedureDescription
+ • LocationID
+ • Country
+ • City
+ • State
+ • PostalCode
