@@ -45,7 +45,7 @@ This project proposes the design of an optimized data model using Draw.io to bet
 
 ## Process
 I took note of all the possible primary keys which are usually IDs like Transaction ID, Doctor ID, Patient ID, Procedure ID, and Location ID. 
-Then I restructured the data by grouping them accordingly into different dimension tables with their primary keys. Created the Fact table with the foreign keys, and established connections/cardinality with the dimension tables. The end product was a well structured and optimized star schema data model.
+Then I restructured the data by grouping them accordingly into different dimension tables with their primary keys. Created the Fact table with the foreign keys, and established connections/cardinality with the dimension tables. Additionally, I created a calender date dimension table to support time-based analysis and reporting. The end product was a well structured and optimized star schema data model.
 
 ## Star Schema Model
 
