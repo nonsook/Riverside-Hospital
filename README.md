@@ -42,3 +42,18 @@ This project proposes the design of an optimized data model using Draw.io to bet
  • City
  • State
  • PostalCode
+
+## Process
+I took note of all the possible primary keys which are usually IDs like Transaction ID, Doctor ID, Patient ID, Procedure ID, and Location ID. 
+Then I restructured the data by grouping them accordingly into different dimension tables with their primary keys. Created the Fact table with the foreign keys, and established connections/cardinality with the dimension tables. The end product was a well structured and optimized star schema data model.
+
+## Star Schema Model
+
+![Riverside Data Model](https://github.com/user-attachments/assets/9834094b-2168-4e74-92e8-4d7bc0b78e39)
+
+## Conclusion
+ The model will enable quick and accurate querying. It will also serve as a stepping stone for future analytics and decision-making.
+
+ ![Thank you](https://github.com/user-attachments/assets/44930e29-aaa2-45a6-8ed9-334b974dde06)
+
+
