@@ -53,7 +53,7 @@ Created the Fact table with the quantitative Transaction ID as the primary key a
 ![Riverside Data Model](https://github.com/user-attachments/assets/9834094b-2168-4e74-92e8-4d7bc0b78e39)
 
 ## Conclusion
- The model will enable quick and accurate querying. It will also serve as a stepping stone for future analytics and decision-making.
+ This model will enable quick and accurate querying. It will also serve as a stepping stone for future analytics and decision-making.
 
  ![Thank you](https://github.com/user-attachments/assets/44930e29-aaa2-45a6-8ed9-334b974dde06)
 
